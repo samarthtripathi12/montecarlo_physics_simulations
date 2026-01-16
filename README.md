@@ -61,7 +61,7 @@ Model diffusion-like behavior using a one-dimensional random walk.
 **Dynamic Evolution (GIF)**
 *Time evolution of the random walk trajectory*
 
-![Random Walk GIF](MonteCarlo_Phase2_RandomWalk/gifs/random_walk_evolution.gif)
+![Random Walk GIF](MonteCarlo_Phase2_RandomWalk/graphs/random_walk.gif)
 
 **PDF Report**
 [Download PDF](MonteCarlo_Phase2_RandomWalk/report/report_random_walk.pdf)
@@ -116,7 +116,7 @@ Simulate emergent collective behavior from simple local spin interactions.
 **Thermal Evolution (GIF)**
 *Spin domain formation over Monte Carlo steps*
 
-![Ising Model GIF](Phase4_IsingModel/gifs/ising_evolution.gif)
+![Ising Model GIF](Phase4_IsingModel/graphs/ising_evolution.gif)
 
 **PDF Report**
 [Download PDF](Phase4_IsingModel/report_ising.pdf)
